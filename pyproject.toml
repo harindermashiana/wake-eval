@@ -18,6 +18,7 @@ build-backend = "uv_build"
 
 [dependency-groups]
 dev = [
+    "inspect-ai>=0.3.268",
     "pytest>=9.1.1",
     "ruff>=0.16.8",
 ]
